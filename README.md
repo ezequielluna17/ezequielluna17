@@ -26,12 +26,3 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
----
-
-### 📊 Mis estadísticas en GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ezequielluna17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielluna17&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
